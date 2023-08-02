@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"choose destination","user chooses the destination he wants","ERROR","2023-07-14T14:04:15.1065529-05:00[America/Bogota]","0.0","0.33"
+"choose destination","Add items to an empty list","PENDING","2023-07-14T18:03:00.7031199-05:00[America/Bogota]","0.0","0.36"
+"choose destination","user wants to choose the type of getaway for his trip","PENDING","2023-07-26T18:24:04.6488152-05:00[America/Bogota]","0.0","0.44"
+"choose destination","user wants to choose the type of getaway for his trip","ERROR","2023-08-01T20:59:03.0128084-05:00[America/Bogota]","0.0","49.42"
